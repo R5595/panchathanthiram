@@ -22,6 +22,9 @@ public long getPhone() {
 public void setPhone(long phone) {
 	this.phone = phone;
 }
+public void gopi() {
+	System.out.println("ok");
+}
 
 
 
